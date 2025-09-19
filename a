@@ -1,0 +1,42 @@
+[33mcommit ef77443aa11dfc7c829b695994ef83bc2f98d915[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 6456c7a 058312e
+Author: Leo Ponce <oleoponce@gmail.com>
+Date:   Fri Sep 19 19:26:49 2025 +0200
+
+    Merge branch 'Kiliangil88:main' into main
+
+[33mcommit 058312e4254f128d05b575d381ee939f6b705f47[m
+Merge: 3280089 7067563
+Author: Kiliangil88 <149784768+Kiliangil88@users.noreply.github.com>
+Date:   Fri Sep 19 19:11:54 2025 +0200
+
+    Merge pull request #1 from Leonp11/Leonp11-rama1
+    
+    Leonp11 rama1
+
+[33mcommit 70675631b598388488b6fb2f8b195ae413a4e78b[m[33m ([m[1;31morigin/Leonp11-rama1[m[33m)[m
+Author: Leo Ponce <oleoponce@gmail.com>
+Date:   Fri Sep 19 17:03:56 2025 +0000
+
+    "nuevo"
+
+[33mcommit 6456c7aa9192d9c079d1903d0ff1a24afd3aa81f[m
+Merge: 3280089 30e8e2b
+Author: Leo Ponce <oleoponce@gmail.com>
+Date:   Fri Sep 19 18:56:00 2025 +0200
+
+    Merge pull request #1 from Leonp11/Leonp11-rama1
+    
+    Create new.md
+
+[33mcommit 30e8e2b2653ebb497fde3adab43fec2b5a2c4e22[m
+Author: Leo Ponce <oleoponce@gmail.com>
+Date:   Fri Sep 19 18:54:46 2025 +0200
+
+    Create new.md
+
+[33mcommit 32800897e554b24b2863b08329b502e64aba41b1[m
+Author: Kiliangil88 <149784768+Kiliangil88@users.noreply.github.com>
+Date:   Fri Sep 19 18:51:06 2025 +0200
+
+    Initial commit
